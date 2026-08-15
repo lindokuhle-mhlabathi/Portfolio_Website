@@ -1,32 +1,37 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Lindokuhle Mhlabathi — Portfolio Website
 
+Welcome to my personal portfolio website. This website showcases my background, skills, projects, and experience in **Industrial Engineering, Data Analytics, and Process Improvement.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+About Me
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I am an Industrial Engineering graduate with experience in logistics and a growing specialization in data analytics. I enjoy using data and analytical tools to identify trends, solve problems, improve processes, and support data-driven decision-making.
 
-(* = not included)
+Skills
 
-AJ
-aj@lkn.io | @ajlkn
+Data Analytics: Data Cleaning, Exploratory Data Analysis, Data Visualization
+Programming: Python, SQL
+Business Intelligence:Power BI, Tableau, AWS QuickSight, Qlik Sense
+Data Tools: Excel, Pandas, Beautiful Soup
+Industrial Engineering: Process Improvement, Lean Manufacturing, 5S, VSM, Time & Motion Studies, Ergonomics
+Other: SAP
 
+Projects
 
-Credits:
+The portfolio includes projects covering different areas of data analytics, including:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+World Layoffs Analysis — SQL Server
+Call Customer Data Cleaning — Python & Jupyter Notebook
+World Population Data Cleaning — Python & Jupyter Notebook
+US Largest Companies by Revenue — Python & Beautiful Soup Web Scraping
+Professional Survey Dashboard — Power BI
+Airbnb Data Analysis Dashboard — Tableau
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Each project demonstrates my ability to collect, clean, analyze, visualize, and communicate data-driven insights.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Purpose of This Portfolio
+
+This portfolio serves as a collection of my data analytics projects and demonstrates how I apply technical and analytical skills to real-world datasets and business problems.
+
+Contact
+
+If you would like to connect with me regarding opportunities in Data Analytics, Industrial Engineering, Logistics, or Process Improvement, feel free to reach out through my LinkedIn or GitHub profile.
